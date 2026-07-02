@@ -44,10 +44,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=priyanshihihi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshihihi&theme=tokyonight&hide_border=true" width="48%" />
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshihihi&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
 </div>
 
 ---
@@ -60,16 +56,6 @@
 | 🕵️ [ThreatPixel AI](https://github.com/priyanshihihi) | Steganography detection platform — Blockchain & Cyber Security hackathon project |
 | 🔐 [EscrowFlow](https://github.com/priyanshihihi/escrowflow) | Escrow-based freelance payment smart contract on Ethereum |
 | 📈 [ML Learning Log](https://github.com/priyanshihihi/ml-learning-log) | Linear Regression implemented from scratch |
-
----
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-![snake gif](https://raw.githubusercontent.com/priyanshihihi/priyanshihihi/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ---
 

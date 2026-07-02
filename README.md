@@ -26,10 +26,12 @@
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
@@ -55,9 +57,19 @@
 | Project | Description |
 |---|---|
 | 🚕 [Ola Rides Dashboard](https://github.com/priyanshihihi/ola-rides-dashboard) | End-to-end Power BI analytics dashboard with AI-powered hybrid review trust-scoring |
+| 🕵️ [ThreatPixel AI](https://github.com/priyanshihihi) | Steganography detection platform — Blockchain & Cyber Security hackathon project |
 | 🔐 [EscrowFlow](https://github.com/priyanshihihi/escrowflow) | Escrow-based freelance payment smart contract on Ethereum |
 | 📈 [ML Learning Log](https://github.com/priyanshihihi/ml-learning-log) | Linear Regression implemented from scratch |
-| 😂 [Dev Joke Generator](https://github.com/priyanshihihi) | Fun web app deployed via GitHub Pages |
+
+---
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/priyanshihihi/priyanshihihi/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 

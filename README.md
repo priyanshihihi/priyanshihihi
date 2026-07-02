@@ -42,10 +42,20 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=priyanshihihi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshihihi&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=priyanshihihi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="60%" />
 
 </div>
+
+---
+
+### 🚧 Upcoming Project
+
+**Telecom Customer Churn Prediction** — an end-to-end pipeline combining SQL, Python, ML, and Power BI, with AI-generated insights layered on top.
+
+- 🗄️ Cleaned and loaded 7,032 customer records into MySQL, with SQL queries surfacing key churn drivers
+- 🤖 Trained a Random Forest model — **83% AUC**, flags **$139K/month in revenue at risk** (30.5% of total revenue)
+- 📊 Segmented customers into Low/Medium/High churn risk — 2,196 customers currently High Risk
+- 🔜 Next: Power BI dashboard (5 pages) + Gemini-powered natural language insights, then pushed to GitHub
 
 ---
 

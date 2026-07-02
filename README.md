@@ -4,6 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Priyanshi+%F0%9F%91%8B;Blockchain+%C3%97+AI%2FML+Enthusiast;B.Tech+CSE+(Blockchain)+%40+Presidency+University;Building+with+Smart+Contracts+%26+LLMs" alt="Typing SVG" />
 </a>
 
+[![Portfolio](https://img.shields.io/badge/-PORTFOLIO-8B7FFF?style=for-the-badge&logo=vercel&logoColor=white)](https://priyanshi-portfolio-sigma.vercel.app/)
 [![Email](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trivedipriyanshi072004@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=priyanshihihi&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS)

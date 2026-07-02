@@ -9,6 +9,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=priyanshihihi&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS)
 
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/213760710-201a57d2-95f1-45c7-b910-44faf209d2f8.gif" width="300" />
+
 </div>
 
 ---
